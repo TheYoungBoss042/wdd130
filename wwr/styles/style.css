@@ -68,6 +68,15 @@ nav a:hover {
     width: 100%;
 }
 #hero {
+    margin-top: 0;
+}
+#hero-msg {
+    margin-top: 0;
+}
+#hero-msg h4 {
+    display: none;
+}
+#hero {
     display: grid;
     grid-template-columns: 1fr 3fr 1fr;
     margin-top: -100px; 
@@ -202,15 +211,6 @@ main section img {
     nav a {
         display: block;
         padding: 15px;
-    }
-    #hero {
-        margin-top: 0;
-    }
-    #hero-msg {
-        margin-top: 0;
-    }
-    #hero-msg h4 {
-        display: none;
     }
     .home-title {
         font-size: 25px;
