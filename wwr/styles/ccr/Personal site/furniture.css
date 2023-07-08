@@ -1,9 +1,13 @@
-
-</div>
-</section> 
-<h1> {
-text-align: left
-
+.mark {
+    display: flex ;
+    justify-content: space-between;
+    gap: 150px;
+}
+.social {
+    text-align: center;
+}
+.footer {
+    text-align: center;
 }
 
 
