@@ -1,13 +1,11 @@
 .mark {
-    display: flex ;
-    justify-content: space-between;
-    gap: 150px;
+	display: flex;
+	justify-content: space-between;
+	gap: 150px;
 }
 .social {
-    text-align: center;
+	text-align: center;
 }
 .footer {
-    text-align: center;
+	text-align: center;
 }
-
-
